@@ -80,3 +80,6 @@ It is useless to manage the authentication by your-self.
    Or it may create a independants process for each client connection, to create
    a __sandbox__ around it.
 
+# Get *Ouistiti*
+
+   The source code is available on [GitHub](https://github.com/ouistiti-project/ouistiti).
